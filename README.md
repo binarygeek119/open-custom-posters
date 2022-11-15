@@ -1,5 +1,12 @@
-# posterr-custom-posters
-Custom posters for the app Posterr by petersem https://github.com/petersem/posterr
+# open-custom-posters
+Custom posters for the apps like
+
+Posterr by petersem https://github.com/petersem/posterr
+
+or 
+
+Digital Movie Poster (DMP)
+https://github.com/newelement/digital-movie-poster
 
 feel free you use no copyright open source posters
 please use issues to request more.
