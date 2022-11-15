@@ -15,4 +15,9 @@ want to submit yours do a pull request
 
 to do a pull request your posters should be in a folder of your user name.
 
+# Open Repository's discord
+
+https://discord.gg/CZTGFD9K
+
+
 ![don't forget the popcorn](https://github.com/binarygeek119/posterr-custom-posters/blob/main/binarygeek119/dont-forget.jpg?raw=true)
